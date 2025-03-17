@@ -1,5 +1,5 @@
 # 💫 About Me:
-👏 Hello, Iam Anwesha Rani Gouda <br>🔭 I’m currently working on projects.<br>👯 I’m looking to collaborate on on Open Source Projects.<br>🌱 I’m currently learning Java, spring boot.<br>💬 Ask me about ReactJS, NextJS, NodeJS.<br>⚡ Fun fact , facts are just opinions of someone random you don't care about.
+👏 Hello, Iam Anwesha Rani Gouda <br>🔭 I’m currently working on projects.<br>👯 I’m looking to collaborate on on Open Source Projects.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me about ReactJS, NextJS, NodeJS.<br>⚡ Fun fact , facts are just opinions of someone random you don't care about.
 
 
 ## 🌐 Socials:
